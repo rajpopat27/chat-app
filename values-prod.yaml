@@ -1,0 +1,7 @@
+# Default values for chat.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+replicas_app: 5
+replicas_mongo: 5
+
