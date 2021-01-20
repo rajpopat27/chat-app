@@ -2,6 +2,6 @@
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
 
-replicas_app: 1
-replicas_mongo: 1
+replicas_app: 2
+replicas_mongo: 2
 
